@@ -1,0 +1,37 @@
+
+img {
+    width: 80px;
+    height: 80px;   
+    display: none;
+}
+
+
+.TwoH {
+    background-color: rgb(75, 26, 172);
+    color: white;
+    text-align: center;
+}
+
+.P {
+    background-color: lightgrey;
+    padding: 1em;
+}
+body {
+    margin: 0;
+    background-image: url(record.png);
+    background-repeat: repeat;
+}
+
+
+/* header {
+    background-color: rgb(75, 26, 172);
+    color: white;
+    text-align: center;
+}
+main {
+    background-color: lightgrey;
+    padding: 1em;
+}
+body {
+    margin: 0;
+} */
